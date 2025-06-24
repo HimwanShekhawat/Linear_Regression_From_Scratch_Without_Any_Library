@@ -17,8 +17,7 @@ We generate a synthetic dataset using a known linear relationship with added noi
 
 ## 📁 Files
 
-- `linear_regression.py` - Main Python script with code for data generation, gradient descent, and visualization.
-- `practice.ipynb` - Original Jupyter Notebook version of the project.
+- `Linear_Regression_From_Scratch.ipynb` - Original Jupyter Notebook version of the project.
 
 ---
 
